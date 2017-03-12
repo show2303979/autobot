@@ -1,0 +1,12 @@
+C:\Users\show\Desktop\自動刷錢\WardBuddy\WardBuddy\bin\Release\WardBuddy.exe.config
+C:\Users\show\Desktop\自動刷錢\WardBuddy\WardBuddy\bin\Release\WardBuddy.exe
+C:\Users\show\Desktop\自動刷錢\WardBuddy\WardBuddy\bin\Release\WardBuddy.pdb
+C:\Users\show\Desktop\自動刷錢\WardBuddy\WardBuddy\bin\Release\EloBuddy.dll
+C:\Users\show\Desktop\自動刷錢\WardBuddy\WardBuddy\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\show\Desktop\自動刷錢\WardBuddy\WardBuddy\bin\Release\EloBuddy.SDK.dll
+C:\Users\show\Desktop\自動刷錢\WardBuddy\WardBuddy\bin\Release\SharpDX.dll
+C:\Users\show\Desktop\自動刷錢\WardBuddy\WardBuddy\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\show\Desktop\自動刷錢\WardBuddy\WardBuddy\bin\Release\Newtonsoft.Json.dll
+C:\Users\show\Desktop\自動刷錢\WardBuddy\WardBuddy\obj\Release\WardBuddy.csprojResolveAssemblyReference.cache
+C:\Users\show\Desktop\自動刷錢\WardBuddy\WardBuddy\obj\Release\WardBuddy.exe
+C:\Users\show\Desktop\自動刷錢\WardBuddy\WardBuddy\obj\Release\WardBuddy.pdb
