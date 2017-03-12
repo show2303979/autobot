@@ -1,0 +1,10 @@
+C:\Users\show\Desktop\自動刷錢\DisableWaterMark\DisableWaterMark\bin\Release\DisableWaterMark.exe.config
+C:\Users\show\Desktop\自動刷錢\DisableWaterMark\DisableWaterMark\bin\Release\DisableWaterMark.exe
+C:\Users\show\Desktop\自動刷錢\DisableWaterMark\DisableWaterMark\bin\Release\DisableWaterMark.pdb
+C:\Users\show\Desktop\自動刷錢\DisableWaterMark\DisableWaterMark\bin\Release\EloBuddy.dll
+C:\Users\show\Desktop\自動刷錢\DisableWaterMark\DisableWaterMark\bin\Release\EloBuddy.SDK.dll
+C:\Users\show\Desktop\自動刷錢\DisableWaterMark\DisableWaterMark\bin\Release\SharpDX.dll
+C:\Users\show\Desktop\自動刷錢\DisableWaterMark\DisableWaterMark\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\show\Desktop\自動刷錢\DisableWaterMark\DisableWaterMark\bin\Release\Newtonsoft.Json.dll
+C:\Users\show\Desktop\自動刷錢\DisableWaterMark\DisableWaterMark\obj\Release\DisableWaterMark.exe
+C:\Users\show\Desktop\自動刷錢\DisableWaterMark\DisableWaterMark\obj\Release\DisableWaterMark.pdb
