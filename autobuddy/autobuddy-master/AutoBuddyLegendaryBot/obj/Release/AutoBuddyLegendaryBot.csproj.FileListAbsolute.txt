@@ -1,0 +1,15 @@
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\bin\Release\AutoBuddy.exe.config
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\bin\Release\AutoBuddy.exe
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\bin\Release\AutoBuddy.pdb
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\bin\Release\EloBuddy.dll
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\bin\Release\EloBuddy.SDK.dll
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\bin\Release\SharpDX.dll
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\bin\Release\SharpDX.XInput.dll
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\obj\Release\AutoBuddyLegendaryBot.csprojResolveAssemblyReference.cache
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\obj\Release\AutoBuddy.Properties.Resources.resources
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\obj\Release\AutoBuddyLegendaryBot.csproj.GenerateResource.Cache
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\obj\Release\AutoBuddy.exe
+C:\Users\show\Desktop\自動刷錢\autobuddy\EloBuddy-master\AutoBuddyLegendaryBot\obj\Release\AutoBuddy.pdb
