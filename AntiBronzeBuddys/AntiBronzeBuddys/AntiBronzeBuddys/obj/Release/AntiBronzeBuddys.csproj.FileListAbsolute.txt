@@ -1,0 +1,17 @@
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\AntiBronzeBuddys.exe.config
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\AntiBronzeBuddys.exe
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\AntiBronzeBuddys.pdb
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\EloBuddy.dll
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\EloBuddy.SDK.dll
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\mscorlib.dll
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\SharpDX.dll
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\Newtonsoft.Json.dll
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\zh-Hant\mscorlib.resources.dll
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\normidna.nlp
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\normnfc.nlp
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\normnfd.nlp
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\normnfkc.nlp
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\bin\Release\normnfkd.nlp
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\obj\Release\AntiBronzeBuddys.exe
+C:\Users\show\Desktop\自動刷錢\AntiBronzeBuddys\AntiBronzeBuddys\AntiBronzeBuddys\obj\Release\AntiBronzeBuddys.pdb
